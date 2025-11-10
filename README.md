@@ -1,5 +1,5 @@
 
-## 👋 Hi there! I'm [Anil Kumar]
+## 👋 Hi there! I'm Anil Kumar
 
 I'm a **Data Analyst** passionate about transforming raw data into clear, actionable insights that drive business decisions. I leverage a powerful combination of technical expertise and analytical curiosity to solve complex problems and uncover hidden patterns.
 
