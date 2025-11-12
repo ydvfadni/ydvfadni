@@ -38,4 +38,3 @@ I'm always open to discussing new data challenges, collaborative projects, or ca
 
 ---
 
-Feel free to customize the project names, links, and the specific Python libraries you emphasize! Would you like me to help you brainstorm some project ideas to fill in the "Featured Projects" section?
